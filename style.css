@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500&display=swap");
+
+* {
+  font-family: "Zilla Slab", serif;
+  text-align: center;;
+}
+
+#symbol {
+  font-size: 15em;
+}
+
+#text {
+  font-size: 3em;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #000;
+    color: #d6d8da;
+  }
+}
